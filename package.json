@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "lucide-react": "^0.540.0",
-    "next": "15.5.0",
+    "next": "15.5.9",
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "^5.4.54",
     "react": "19.1.0",
